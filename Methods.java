@@ -5,7 +5,7 @@ public class Methods {
 	    firstMethod();
 	    exm(30,5);
 	  }
-	  // Method tanımlama.
+	  // Method tanımlama .
 	  // Şimdilik "public static void" method tanımlamak için kullanılan magic keyword.
 	  // "firstMethod" method adı. Javada yine zorunlu olmamakla beraber method adları küçük harfle başlar.
 	  // İlk kelimeden sonraki kelimeler ise büyük harfle başlar.
